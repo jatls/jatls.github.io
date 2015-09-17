@@ -37,15 +37,13 @@ links:
     url: /
     external: false
     icon: home
-  - title: Categories
-    url: /categories
   - title: Tags
     url: /tags
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Melbourne
 future:      true
-highlighter: rouge
+highlighter: pygments
 markdown:    kramdown
 paginate:    6
 paginate_path: "page:num"
