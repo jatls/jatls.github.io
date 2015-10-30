@@ -2,7 +2,7 @@
 title: Super-savvy? Let's try to be factual first
 author: Jared
 layout: post
-permalink: /financial-planning/super-savvy_lets_try_to_be_factual_first/
+permalink: /financial-planning/super-savvy-lets-try-to-be-factual-first/
 tags:
   - Financial Planning
   - Ramblings
