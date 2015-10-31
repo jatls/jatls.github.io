@@ -3,14 +3,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,100,700);
 @import url(http://fonts.googleapis.com/css?family=Sacramento);
 
-/*!
- * HMFAYSAL OMEGA v1.0.1
- * Responsive Jekyll Theme
- *
- * Copyright 2014 Hossain Mohd Faysal
- *
- * Designed and built with all the love in the world by @hmfaysal
- */
 /* ------------------------ */
 /* GENERAL TYPOGRAPHY RULES */
 /* ------------------------ */
@@ -415,7 +407,7 @@ blockquote:before {
   background-color: rgba(0, 0, 0, 0.65);
 }
 #masthead {
-  background-color: #1e1e1f;
+  background-color: #8894ae;
 }
 #footer,
 #masthead {
